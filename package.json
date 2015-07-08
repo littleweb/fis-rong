@@ -1,6 +1,6 @@
 {
   "name": "rong",
-  "version": "0.2.7",
+  "version": "0.2.8",
   "description": "基于fis的前端解决方案",
   "main": "index.js",
   "bin" : {
